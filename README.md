@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git repo url](https://github.com/Plut0r/Landing-page)
-- Live Site URL: [Git live url](https://your-live-site-url.com)
+- Live Site URL: [Git live url](https://plut0r.github.io/Landing-page/)
 
 
 ### Built with
